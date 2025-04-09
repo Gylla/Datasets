@@ -10,4 +10,5 @@ Datasets que se usarán para el Proyecto final: análisis de datos, con datos p�
 ## Autores
 
 - [@Gylla](https://github.com/Gylla)
+- [@JorBrazas](https://github.com/JorBrazas)
 
